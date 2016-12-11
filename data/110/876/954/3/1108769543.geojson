@@ -9,7 +9,7 @@
     "geom:bbox":"-79.08747,35.207879,-78.52985,35.540659",
     "geom:latitude":35.348954,
     "geom:longitude":-78.774892,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":847879853.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 53",
     "uscensus:sldlst":"053",
     "uscensus:statefp":"37",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487422,
     "wof:geomhash":"85a609c007bbb691be31ac4acdc17801",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108769543,
     "wof:lastmodified":1481487422,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688773,
     "wof:repo":"whosonfirst-data-constituency-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-79.11292,34.999824,-78.93041,35.21413",
     "geom:latitude":35.106063,
     "geom:longitude":-79.035228,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":208880481.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 42",
     "uscensus:sldlst":"042",
     "uscensus:statefp":"37",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487417,
     "wof:geomhash":"55f03b68e16508d88c04bbe143db218a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108769519,
     "wof:lastmodified":1481487417,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688773,
     "wof:repo":"whosonfirst-data-constituency-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

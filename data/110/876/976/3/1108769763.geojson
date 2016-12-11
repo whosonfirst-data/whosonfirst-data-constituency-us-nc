@@ -9,7 +9,7 @@
     "geom:bbox":"-80.88159,35.97276,-80.035119,36.287934",
     "geom:latitude":36.14965,
     "geom:longitude":-80.477741,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1626986662.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 31",
     "uscensus:sldust":"031",
     "uscensus:statefp":"37",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487469,
     "wof:geomhash":"26f5d75f9d742f3630f1850b6ae0d27f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108769763,
     "wof:lastmodified":1481487469,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688773,
     "wof:repo":"whosonfirst-data-constituency-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-80.95875,35.353059,-80.73276,35.51484",
     "geom:latitude":35.443532,
     "geom:longitude":-80.844543,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":174430974.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 98",
     "uscensus:sldlst":"098",
     "uscensus:statefp":"37",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487436,
     "wof:geomhash":"dee049f34c8f9b7bfcbbc612a8f5e8a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108769645,
     "wof:lastmodified":1481487436,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688773,
     "wof:repo":"whosonfirst-data-constituency-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

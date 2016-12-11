@@ -9,7 +9,7 @@
     "geom:bbox":"-78.902,33.75288,-77.48454,34.856182",
     "geom:latitude":34.372439,
     "geom:longitude":-78.220977,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":6726863677.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 8",
     "uscensus:sldust":"008",
     "uscensus:statefp":"37",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487459,
     "wof:geomhash":"5c2dae0214d22fbab3d823440a6719de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108769711,
     "wof:lastmodified":1481487459,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688773,
     "wof:repo":"whosonfirst-data-constituency-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

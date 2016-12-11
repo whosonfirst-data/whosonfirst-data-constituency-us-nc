@@ -9,7 +9,7 @@
     "geom:bbox":"-80.70783,35.74303,-80.30669,36.138763",
     "geom:latitude":35.952433,
     "geom:longitude":-80.526358,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":803682912.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 79",
     "uscensus:sldlst":"079",
     "uscensus:statefp":"37",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487430,
     "wof:geomhash":"8fc3768a724bcabb35d053394f812afa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108769601,
     "wof:lastmodified":1481487430,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688773,
     "wof:repo":"whosonfirst-data-constituency-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

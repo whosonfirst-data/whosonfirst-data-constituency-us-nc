@@ -9,7 +9,7 @@
     "geom:bbox":"-77.73103,34.399705,-77.04725,35.243001",
     "geom:latitude":34.817243,
     "geom:longitude":-77.394897,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3194565829.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 6",
     "uscensus:sldust":"006",
     "uscensus:statefp":"37",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487458,
     "wof:geomhash":"c8ef1201789087f914455f55e08c1e80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108769707,
     "wof:lastmodified":1481487458,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688773,
     "wof:repo":"whosonfirst-data-constituency-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

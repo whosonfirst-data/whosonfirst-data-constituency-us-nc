@@ -9,7 +9,7 @@
     "geom:bbox":"-81.54549,35.99483,-80.86975,36.574961",
     "geom:latitude":36.284262,
     "geom:longitude":-81.171254,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2335416871.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 94",
     "uscensus:sldlst":"094",
     "uscensus:statefp":"37",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487435,
     "wof:geomhash":"ce65fe35cc6c2994360d72b3c64398be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108769635,
     "wof:lastmodified":1481487435,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688773,
     "wof:repo":"whosonfirst-data-constituency-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

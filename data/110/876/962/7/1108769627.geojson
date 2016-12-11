@@ -9,7 +9,7 @@
     "geom:bbox":"-81.00011,36.2363,-80.44006,36.562349",
     "geom:latitude":36.41092,
     "geom:longitude":-80.701511,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1459677055.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 90",
     "uscensus:sldlst":"090",
     "uscensus:statefp":"37",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487433,
     "wof:geomhash":"d2ebc571f2a0a5b6967d89353acf8913",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108769627,
     "wof:lastmodified":1481487433,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688773,
     "wof:repo":"whosonfirst-data-constituency-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

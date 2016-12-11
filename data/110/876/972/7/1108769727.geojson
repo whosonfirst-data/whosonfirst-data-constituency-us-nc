@@ -9,7 +9,7 @@
     "geom:bbox":"-78.80197,35.795729,-78.46925,36.076443",
     "geom:latitude":35.952673,
     "geom:longitude":-78.638392,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":396251779.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 15",
     "uscensus:sldust":"015",
     "uscensus:statefp":"37",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487463,
     "wof:geomhash":"0e238460b190c683639260e89a2b32fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108769727,
     "wof:lastmodified":1481487463,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688773,
     "wof:repo":"whosonfirst-data-constituency-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],

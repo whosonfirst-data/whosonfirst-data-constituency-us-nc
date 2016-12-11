@@ -9,7 +9,7 @@
     "geom:bbox":"-80.07568,34.70503,-78.92159,35.296413",
     "geom:latitude":35.031763,
     "geom:longitude":-79.544206,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2454911491.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 66",
     "uscensus:sldlst":"066",
     "uscensus:statefp":"37",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487425,
     "wof:geomhash":"0a37668e079d2a3b10ea3e37b01fdbde",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108769573,
     "wof:lastmodified":1481487425,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688773,
     "wof:repo":"whosonfirst-data-constituency-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
